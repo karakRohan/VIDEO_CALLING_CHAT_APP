@@ -1,5 +1,3 @@
 {
-  "build": {
-    "outputDirectory": "frontend/dist"
-  }
+  "outputDirectory": "frontend/public"
 }
